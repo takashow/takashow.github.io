@@ -1,5 +1,5 @@
 
-# takashow.github.io 
+# takashow
 # add a new line!
 
 2018.3.14
